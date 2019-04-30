@@ -1,0 +1,5 @@
+NIM	,Nama		,Nilai
+001	/Obet		/90
+002	/Wati		/100
+003	/Muh. Iqbal	/85
+004	/Irwan		/35
